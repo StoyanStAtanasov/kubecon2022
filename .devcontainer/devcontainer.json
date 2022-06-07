@@ -19,7 +19,7 @@
 	},
 
 	"containerEnv": {
-		"organization": "kubernetes101",
+		"organization": "StoyanStAtanasov",
 		"repository": "kubecon2022",
 		"deploymentPath": "/deploy"
 	},
