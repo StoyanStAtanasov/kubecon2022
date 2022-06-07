@@ -8,7 +8,7 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: StoyanStAtanasov22752
+    branch: devcontainer
   secretRef:
     name: flux-system
   url: https://github.com/StoyanStAtanasov/kubecon2022
